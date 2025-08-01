@@ -15,6 +15,41 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
+"@babylonjs/addons@^8.17.1":
+  version "8.18.0"
+  resolved "https://registry.yarnpkg.com/@babylonjs/addons/-/addons-8.18.0.tgz#49aa14f080f4b6a892c435f4978d2f1e52eefdc7"
+  integrity sha512-cd5hI7KM3hEiPYgLgZsmxpkpqWUdGFkT6WoY4XoTZQXwwjZBnEyaryqVFcGPjS28bI06n89miGrS9OSg6RFshA==
+
+"@babylonjs/core@^8.17.1":
+  version "8.18.0"
+  resolved "https://registry.yarnpkg.com/@babylonjs/core/-/core-8.18.0.tgz#d5a1c02a5eb04f8dbbdbcd2b9530f458185565a4"
+  integrity sha512-eBXbOCRX7i5H/lNeqJSe8nsC9d9eIp4i/3Okzc+zwY1bi7HKFf3HT/bjut0y5xd4cSAKRfty5JMJsDBl12n0rg==
+
+"@babylonjs/gui-editor@^8.17.1":
+  version "8.18.0"
+  resolved "https://registry.yarnpkg.com/@babylonjs/gui-editor/-/gui-editor-8.18.0.tgz#f1a8050bc38f28c769381aa19f0ef207bd6cc55b"
+  integrity sha512-M9WJtLwoTmeLVNkjTabSFycOAZ3jFbCbFh1Yq5ZYzeLF9EkZQT6MkrQjGHYgbzSVurhCNEHem7TGLLNtOb+HLw==
+
+"@babylonjs/gui@^8.17.1":
+  version "8.18.0"
+  resolved "https://registry.yarnpkg.com/@babylonjs/gui/-/gui-8.18.0.tgz#cbcf384fae05fea40e8db6e70e04b376f0b1173d"
+  integrity sha512-3+SZFkryCR/Hd7DO2HdAkFaxbhC7t99D3dXuy8YvxrYsKai0VasbYdzFNu7gh+pwUxoJKeGA6ajtYTHeuayn3w==
+
+"@babylonjs/loaders@^8.17.1":
+  version "8.18.0"
+  resolved "https://registry.yarnpkg.com/@babylonjs/loaders/-/loaders-8.18.0.tgz#3f48eff719ddf2fa2770abb9e0442412f450361b"
+  integrity sha512-Siqf/dGzCYJBWGOVQOTvfAxMW7/xrs+rmPXVpDwIOpJagqksjnzjcZhX4aFaEetrTdOyWy/8J44Ak98DBeInOQ==
+
+"@babylonjs/materials@^8.17.1":
+  version "8.18.0"
+  resolved "https://registry.yarnpkg.com/@babylonjs/materials/-/materials-8.18.0.tgz#edadd57bfee1f6eef3407e506885af9a9551938d"
+  integrity sha512-rcQdn4cFtCc8NO/3L69vUU5ITkci5nfobVgHEo9eI4Z1UH79Dw8hQ6VADDWdaYURLYCvQsY/tpjXGVddr7CDuw==
+
+"@babylonjs/serializers@^8.17.1":
+  version "8.18.0"
+  resolved "https://registry.yarnpkg.com/@babylonjs/serializers/-/serializers-8.18.0.tgz#3e73f159f3b940e2a489abd736fae89c6a79b082"
+  integrity sha512-13trG2327A7OUk186IaqUeyntJk+09PfEJ24a0m0fcWOv52M1pHj0RgNIAuKbRzrBKUGwBv3aLJGs0V4sNhcWA==
+
 "@emnapi/core@^1.4.3":
   version "1.4.5"
   resolved "https://registry.yarnpkg.com/@emnapi/core/-/core-1.4.5.tgz#bfbb0cbbbb9f96ec4e2c4fd917b7bbe5495ceccb"

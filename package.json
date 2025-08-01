@@ -11,7 +11,14 @@
   "dependencies": {
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "next": "15.4.4"
+    "next": "15.4.4",
+    "@babylonjs/addons": "^8.17.1",
+    "@babylonjs/core": "^8.17.1",
+    "@babylonjs/gui": "^8.17.1",
+    "@babylonjs/gui-editor": "^8.17.1",
+    "@babylonjs/loaders": "^8.17.1",
+    "@babylonjs/materials": "^8.17.1",
+    "@babylonjs/serializers": "^8.17.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
