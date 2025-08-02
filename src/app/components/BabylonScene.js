@@ -26,7 +26,7 @@ const BabylonScene = (props) => {
       'camera',
       -Math.PI / 2,
       Math.PI / 2.5,
-      3,
+      30,
       new Vector3(0, 0, 0),
       scene.current
     )
